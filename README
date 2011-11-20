@@ -1,13 +1,6 @@
 # shouter
 
-FIXME: write description
+Heroku tutorial for Developing and Deploying Database-Backed Clojure Web
+Applications on Heroku.
 
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+http://devcenter.heroku.com/articles/clojure-web-application
